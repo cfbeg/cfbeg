@@ -2,6 +2,9 @@
 <h3 align="center">Javascript enthusiast from Japan</h3>
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://discord.gg/uvJ4rJhv" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/cfbeg/cfbeg/refs/heads/main/Discord-Symbol-Blurple.svg" height="40" width="40" />
+</a>
 <p align="left">
 </p>
 
