@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm cfbeg</h1>
-<h3 align="center">15yo</h3>
+<h3 align="center">16yo</h3>
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://discord.gg/uvJ4rJhv" target="blank">
+<a href="https://discord.gg/7ZGJx9wK" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/cfbeg/cfbeg/refs/heads/main/Discord-Symbol-Blurple.svg" height="40" width="40" />
 </a>
 <p align="left">
